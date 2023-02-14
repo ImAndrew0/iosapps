@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://uploadlite.gateway.storjshare.io/anonymous/kTrp0FkPffxqmhK_1676396994.ipa?response-content-disposition=attachment%3B%20filename%3D%22%28%40Spotify_Crack%29%208.7.78.ipa%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=jxwekhwzu2nygekmfilf6tggrnua%2F20230214%2Feu1%2Fs3%2Faws4_request&X-Amz-Date=20230214T175036Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=f1736613b78258aabe334d48ea8429538a7c33478b9369294a0de6a87a30b060</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.impiger.myapp</string>
+<key>bundle-version</key>
+<string>1.0</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Spotify</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
